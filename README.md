@@ -1,5 +1,5 @@
 Olá, meu nome é Guilherme Moura Henrique 👋
-Sou desenvolvedor de Software com enfase em FrontEn, estou trilhando um caminho para me tornar um Desenvolvedor de Software Front-End.
+Sou desenvolvedor de Software com enfase em FrontEnd, estou trilhando um caminho para me tornar um Desenvolvedor Web.
 
 Linguagens e Ferramentas:
 -HTML5
