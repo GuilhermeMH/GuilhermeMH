@@ -2,7 +2,7 @@
 
 - 💻 Hoje realizo projetos com front-end, onde desde o início de 2022 realizo projetos na área.
 
-### Tecnicas
+### Tecnicas:
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
