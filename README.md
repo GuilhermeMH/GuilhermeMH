@@ -1,6 +1,6 @@
 # Olá a todos! Meu nome é Guilherme.
 
-- 💻 Hoje realizo projetos com front-end, onde desde o início de 2022 realizo projetos na área. Sinta-se livre para perguntar qualquer assunto 😁
+- 💻 Hoje realizo projetos com front-end, onde desde o início de 2022 realizo projetos na área. Sinta-se livre para perguntar qualquer assunto!
 
 ### Tecnicas:
 <div style="display: inline_block"><br>
