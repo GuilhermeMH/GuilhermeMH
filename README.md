@@ -1,4 +1,4 @@
-# Olá a todos! Prazer, Guilherme.
+## Olá a todos! Prazer, Guilherme.
 
 - 💻 Realizo projetos com front-end, onde desde o início de 2022 estou integrado a realizar projetos com as devidas ferramentas. Sinta-se livre para perguntar qualquer assunto!
 
