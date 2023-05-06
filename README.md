@@ -14,7 +14,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMH&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMH&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeMH&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeMH&color=green" alt="Profile views" /> </p>
 <br><br>
 
 
